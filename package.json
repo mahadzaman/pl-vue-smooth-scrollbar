@@ -1,5 +1,5 @@
 {
-  "name": "@mahadzaman88/pl-vue-smooth-scrollbar",
+  "name": "pl-vue-smooth-scrollbar",
   "version": "0.1.1",
   "description": "Smooth scrollbar for Vue.js projects(Edited by Mahad)",
   "main": "src/index.js",
