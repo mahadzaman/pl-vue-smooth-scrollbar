@@ -1,11 +1,11 @@
 {
-  "name": "pl-vue-smooth-scrollbar",
+  "name": "@mahadzaman88/pl-vue-smooth-scrollbar",
   "version": "0.1.1",
   "description": "Smooth scrollbar for Vue.js projects(Edited by Mahad)",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mahadzaman/pl-vue-smooth-scrollbar.git"
+    "url": "git+https://github.com/mahadzaman/pl-vue-smooth-scrollbar.git"
   },
   "keywords": [
     "vue.js",
@@ -15,5 +15,13 @@
   "author": "Mahad Zaman",
   "dependencies": {
     "smooth-scrollbar": "^8.3.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mahadzaman/pl-vue-smooth-scrollbar/issues"
+  },
+  "homepage": "https://github.com/mahadzaman/pl-vue-smooth-scrollbar#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
